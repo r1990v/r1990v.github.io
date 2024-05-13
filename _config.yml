@@ -1,31 +1,31 @@
 # Site
-repository: sproogen/resume-theme
+repository: r1990v/r1990v.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Rahul Vats
+title: Senior Performance Engineer
+email: r1990v@gmail.com
+website: https://r1990v.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: r1990v
+github_username:  r1990v
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: rahulvats90
+linkedin_username: rahulvats1990
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: RahulVats90
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Rahul and I'm a senior performance engineer. As a passionate software engineer with a goal-oriented mindset, I have dedicated 8 years of my career to mastering the art of performance, automation, and security testing. My expertise lies in using tools such as JMeter, LoadRunner, Neoload, Selenium, IBM Appscan, Blackduck, MobSf, and Burp Suite to ensure that every product I work on meets the highest standards of quality.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Performance Engieering</mark> and <mark>Playing Badminton</mark>
 
 content:
   - title: Projects # Title for the section
@@ -90,23 +90,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Amity University
+        caption: 2012 - 2015
+        sub_title:  Master of Computer Application
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Amity School of Engineering and Technology (ASET), Amity University Uttar Pradesh is one of the pioneer institutions in the field of Engineering, Research and Technology and has been ranked 4th in North Zone by Times Of India (Education Times)
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Amity University I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at the university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent a lot of my free time as a committee member of the *Amity Conference and Research* taking on roles such as *Registration Coordinator* and *Session Modrator*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      - Gaming (Fav: Ghost of Tsushima)
+      - Movies (Fav: Life of Pi)
+      - Cooking (Fav: Chinese Food)
+      - Eating (Fav: Natti Biryani)
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
